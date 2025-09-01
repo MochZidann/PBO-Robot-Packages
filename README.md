@@ -5,4 +5,4 @@
 2. Masuk ke folder project yang sudah di clone
 3. Kemudian jalankan program `main.py`
 
-## File `main.py` berisi keseluruhan fungsi dari package robot yang sudah diimpor
+### File `main.py` berisi keseluruhan fungsi dari package robot yang sudah diimpor
